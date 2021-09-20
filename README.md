@@ -5,7 +5,7 @@
 Creating a multiplatform application with Flutter, where we consult the movies that are currently in theaters
 
 ### Some Screenshots
-![Image](movie_info_app_with_flutter/screenshot/1.jpg) 
-![Image](movie_info_app_with_flutter/screenshot/2.jpg) 
-![Image](movie_info_app_with_flutter/screenshot/3.jpg) 
-![Image](movie_info_app_with_flutter/screenshot/4.jpg) 
+![Image](screenshot/1.jpg) 
+![Image](screenshot/2.jpg) 
+![Image](screenshot/3.jpg) 
+![Image](screenshot/4.jpg) 
