@@ -6,7 +6,8 @@ Creating a multiplatform application with Flutter, where we consult the movies t
 
 ### Some Screenshots 
 <p align="center" width="100%">
-    <img width="32%" src="screenshot/1.jpg" alt=""> 
-    <img width="32%" src="screenshot/1.jpg" alt=""> 
-    <img width="32%" src="screenshot/1.jpg" alt=""> 
+    <img width="32%" src="screenshot/1.jpg" alt="Home"> 
+    <img width="32%" src="screenshot/2.jpg" alt="Description Movie"> 
+    <img width="32%" src="screenshot/3.jpg" alt="Description Movie"> 
+    <img width="32%" src="screenshot/4.jpg" alt="Search Movie"> 
 </p> 
