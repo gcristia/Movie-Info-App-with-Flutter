@@ -15,4 +15,4 @@ Creando una aplicación multiplataforma con Flutter, donde consultamos las pelí
 ## Expresiones de gratitud 🎁
 * Estoy muy agradecido por todo lo que aprendí en el curso [Flutter: Tu guía completa de desarrollo para IOS y Android](https://www.udemy.com/course/flutter-ios-android-fernando-herrera) impartido por [Fernando Herrera](https://fernando-herrera.com/)
 ---
-⌨️ with ❤️by [gcristia](https://github.com/gcristia) 😊
+⌨️con ❤️por [gcristia](https://github.com/gcristia) 😊
