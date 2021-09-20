@@ -4,8 +4,9 @@
 
 Creating a multiplatform application with Flutter, where we consult the movies that are currently in theaters
 
-### Some Screenshots
-![Image](screenshot/1.jpg) 
-![Image](screenshot/2.jpg) 
-![Image](screenshot/3.jpg) 
-![Image](screenshot/4.jpg) 
+### Some Screenshots 
+<p align="center" width="100%">
+    <img width="32%" src="screenshot/1.jpg" alt=""> 
+    <img width="32%" src="screenshot/1.jpg" alt=""> 
+    <img width="32%" src="screenshot/1.jpg" alt=""> 
+</p> 
