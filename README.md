@@ -11,3 +11,8 @@ Creating a multiplatform application with Flutter, where we consult the movies t
     <img width="20%" src="screenshot/3.jpg" alt="Description Movie"> 
     <img width="20%" src="screenshot/4.jpg" alt="Search Movie"> 
 </p> 
+
+## Expressions of Gratitude 🎁
+* I am very grateful for everything I learned in the course [Flutter: Tu guía completa de desarrollo para IOS y Android](https://www.udemy.com/course/flutter-ios-android-fernando-herrera) made by [Fernando Herrera](https://fernando-herrera.com/)
+---
+⌨️ with ❤️by [gcristia](https://github.com/gcristia) 😊
