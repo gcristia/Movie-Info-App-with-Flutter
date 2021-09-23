@@ -13,6 +13,6 @@ Creating a multiplatform application with Flutter, where we consult the movies t
 </p> 
 
 ## Expressions of Gratitude 🎁
-* I am very grateful for everything I learned in the course [Flutter: Tu guía completa de desarrollo para IOS y Android](https://www.udemy.com/course/flutter-ios-android-fernando-herrera) made by [Fernando Herrera](https://fernando-herrera.com/)
+* I am very grateful for everything I learned in the course [Flutter: Tu guía completa de desarrollo para IOS y Android](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/?target=_blank) made by [Fernando Herrera](https://fernando-herrera.com/?target=_blank)
 ---
 ⌨️ with ❤️by [gcristia](https://github.com/gcristia) 😊
